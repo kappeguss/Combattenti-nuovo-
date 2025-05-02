@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Combattentii_Mazzoleni\bin\Debug\net6.0\Combattentii_Mazzoleni.exe
+C:\Users\user\source\repos\Combattentii_Mazzoleni\bin\Debug\net6.0\Combattentii_Mazzoleni.deps.json
+C:\Users\user\source\repos\Combattentii_Mazzoleni\bin\Debug\net6.0\Combattentii_Mazzoleni.runtimeconfig.json
+C:\Users\user\source\repos\Combattentii_Mazzoleni\bin\Debug\net6.0\Combattentii_Mazzoleni.dll
+C:\Users\user\source\repos\Combattentii_Mazzoleni\bin\Debug\net6.0\Combattentii_Mazzoleni.pdb
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.AssemblyInfo.cs
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.dll
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\refint\Combattentii_Mazzoleni.dll
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.pdb
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\Combattentii_Mazzoleni.genruntimeconfig.cache
+C:\Users\user\source\repos\Combattentii_Mazzoleni\obj\Debug\net6.0\ref\Combattentii_Mazzoleni.dll
